@@ -1,0 +1,7 @@
+{
+  "name": "Guardian Paws",
+  "description": "An application to connect users with NGOs to rescue injured animals. Users can report injured animals with photos and their location, track the rescue status, and chat with the responding NGO. NGOs receive alerts and can manage rescue operations. The app features a points system for users to encourage participation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
